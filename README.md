@@ -1,0 +1,1 @@
+The project follows a modular full-stack structure with separate backend and frontend directories for scalability and maintainability.
